@@ -1,0 +1,153 @@
+[
+  {
+    "Id": 1,
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Latest gadgets and tech essentials",
+    "image": "https://images.unsplash.com/photo-1468495244123-6c6c332eeece?w=400&h=300&fit=crop",
+    "subcategories": [
+      {
+        "id": 1,
+        "name": "Audio",
+        "slug": "audio",
+        "productCount": 23
+      },
+      {
+        "id": 2,
+        "name": "Wearables",
+        "slug": "wearables",
+        "productCount": 15
+      },
+      {
+        "id": 3,
+        "name": "Photography",
+        "slug": "photography",
+        "productCount": 8
+      },
+      {
+        "id": 4,
+        "name": "Accessories",
+        "slug": "accessories",
+        "productCount": 34
+      }
+    ],
+    "productCount": 80,
+    "featured": true
+  },
+  {
+    "Id": 2,
+    "name": "Fashion",
+    "slug": "fashion",
+    "description": "Trendy clothing and accessories",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop",
+    "subcategories": [
+      {
+        "id": 5,
+        "name": "Bags",
+        "slug": "bags",
+        "productCount": 45
+      },
+      {
+        "id": 6,
+        "name": "Accessories",
+        "slug": "accessories",
+        "productCount": 67
+      },
+      {
+        "id": 7,
+        "name": "Clothing",
+        "slug": "clothing",
+        "productCount": 89
+      }
+    ],
+    "productCount": 201,
+    "featured": true
+  },
+  {
+    "Id": 3,
+    "name": "Home",
+    "slug": "home",
+    "description": "Everything for your living space",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop",
+    "subcategories": [
+      {
+        "id": 8,
+        "name": "Kitchen",
+        "slug": "kitchen",
+        "productCount": 56
+      },
+      {
+        "id": 9,
+        "name": "Furniture",
+        "slug": "furniture",
+        "productCount": 78
+      },
+      {
+        "id": 10,
+        "name": "Decor",
+        "slug": "decor",
+        "productCount": 123
+      }
+    ],
+    "productCount": 257,
+    "featured": true
+  },
+  {
+    "Id": 4,
+    "name": "Beauty",
+    "slug": "beauty",
+    "description": "Premium beauty and skincare products",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400&h=300&fit=crop",
+    "subcategories": [
+      {
+        "id": 11,
+        "name": "Skincare",
+        "slug": "skincare",
+        "productCount": 89
+      },
+      {
+        "id": 12,
+        "name": "Makeup",
+        "slug": "makeup",
+        "productCount": 134
+      },
+      {
+        "id": 13,
+        "name": "Fragrance",
+        "slug": "fragrance",
+        "productCount": 45
+      }
+    ],
+    "productCount": 268,
+    "featured": true
+  },
+  {
+    "Id": 5,
+    "name": "Sports",
+    "slug": "sports",
+    "description": "Fitness and outdoor gear",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400&h=300&fit=crop",
+    "subcategories": [
+      {
+        "id": 14,
+        "name": "Fitness",
+        "slug": "fitness",
+        "productCount": 67
+      },
+      {
+        "id": 15,
+        "name": "Outdoor",
+        "slug": "outdoor",
+        "productCount": 89
+      },
+      {
+        "id": 16,
+        "name": "Equipment",
+        "slug": "equipment",
+        "productCount": 45
+      }
+    ],
+    "productCount": 201,
+    "featured": true
+  }
+]
